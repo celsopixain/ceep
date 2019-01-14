@@ -3,4 +3,9 @@
 */
 * {
     margin: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
 }
