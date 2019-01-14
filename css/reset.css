@@ -9,3 +9,10 @@
 body {
     font-family: 'Verdana', sans-serif;
 }
+
+/* definir que todo link a deve ser pego do pai.*/
+
+a{
+   color: inherit; 
+   text-decoration: none;
+}
